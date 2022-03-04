@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  display: ;
+}
+
+.background {
+  height: 90vh;
+  background-image: url(./img/img-de-portfolio.svg);
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: right;
+  opacity: 0.3;
+  filter: grayscale();
+}
+
+h1 {
+  font-family: "Dancing Script", cursive;
+}
